@@ -158,8 +158,8 @@ body {
 .sort-wrap {
   background-color: var(--grayscale-white);
   border-radius: 100%;
-  min-width: 2rem;
-  min-height: 2rem;
+  width: 2rem;
+  height: 2rem;
   box-shadow: var(--drop-shadow-inner);
   display: flex;
   align-items: center;
